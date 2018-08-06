@@ -1,0 +1,5 @@
+# 11
+
+```
+S(S(Z)) is less than S(S(S(Z))) by L-Succ{}
+```
